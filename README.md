@@ -61,7 +61,7 @@ DataHarmonizer is a Python-based ETL (Extract, Transform, Load) tool designed fo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/DataHarmonizer.git
+   git clone https://github.com/lawalstyle/DataHarmonizer.git
 Install the required Python libraries:
 bash
 Copy code
